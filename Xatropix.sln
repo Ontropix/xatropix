@@ -15,15 +15,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Windows", "src\Xat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.WinPhone", "src\Xatropix.WinPhone\Xatropix.WinPhone.csproj", "{AA6F145C-C938-47CF-BAE9-FD1DAD5C3828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.Droid", "Xatropix.Samples\Xatropix.Samples.Droid\Xatropix.Samples.Droid.csproj", "{9E883A68-56E1-47EA-BBC4-161908DD1549}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.Droid", "samples\Xatropix.Samples.Droid\Xatropix.Samples.Droid.csproj", "{9E883A68-56E1-47EA-BBC4-161908DD1549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.iOS", "Xatropix.Samples\Xatropix.Samples.iOS\Xatropix.Samples.iOS.csproj", "{1D5CD273-EE31-4FB3-956A-73EBDB06578E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.iOS", "samples\Xatropix.Samples.iOS\Xatropix.Samples.iOS.csproj", "{1D5CD273-EE31-4FB3-956A-73EBDB06578E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.WinPhone", "Xatropix.Samples\Xatropix.Samples.WinPhone\Xatropix.Samples.WinPhone.csproj", "{943E8011-F5FA-4090-A430-926240B4ED12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.WinPhone", "samples\Xatropix.Samples.WinPhone\Xatropix.Samples.WinPhone.csproj", "{943E8011-F5FA-4090-A430-926240B4ED12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.Windows", "Xatropix.Samples\Xatropix.Samples.Windows\Xatropix.Samples.Windows.csproj", "{11348F00-72D6-46C1-8784-4706060B42AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples.Windows", "samples\Xatropix.Samples.Windows\Xatropix.Samples.Windows.csproj", "{11348F00-72D6-46C1-8784-4706060B42AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples", "Xatropix.Samples\Xatropix.Samples\Xatropix.Samples.csproj", "{E20790B9-D41C-4196-88DF-81179994343F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xatropix.Samples", "samples\Xatropix.Samples\Xatropix.Samples.csproj", "{E20790B9-D41C-4196-88DF-81179994343F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{926056A1-0EC7-4775-92E2-59F03408AEFF}"
 EndProject
