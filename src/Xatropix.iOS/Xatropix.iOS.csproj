@@ -88,6 +88,8 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Controls\InifiniteCarouselRenderer.cs" />
+    <Compile Include="Controls\SimpleCarouselRenderer.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <None Include="Entitlements.plist" />
